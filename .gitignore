@@ -1,0 +1,15 @@
+# Created by pytest automatically.
+.pytest_cache/v
+
+
+.pytest.cache/
+
+*.yaml
+
+reports/html_reports/*
+!reports/html_reports/.gitignore
+
+reports/allure_reports/*
+!reports/allure_reports/.gitignore
+
+**/model.py
